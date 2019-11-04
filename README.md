@@ -1,2 +1,2 @@
-# Design
-Jeg prøver og skinne biler og andre ting
+# Kodning
+Hvis i har nogle problemer så kontakt mig over discord Vind#9567
